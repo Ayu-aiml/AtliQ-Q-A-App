@@ -10,3 +10,4 @@ pymysql
 sentence-transformers
 chromadb
 langchain_google_genai
+google-ai-generativelanguage==0.6.6
