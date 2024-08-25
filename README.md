@@ -31,24 +31,19 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/Ayu-aiml/AtliQ-Q-A-App.git
 ```
-2.Navigate to the project directory:
-
-```bash
-  cd 4_sqldb_tshirts
-```
-3. Install the required dependencies using pip:
+2.Install the required dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
 ```
-4.Acquire an api key through makersuite.google.com and put it in .env file
+3.Acquire an api key through makersuite.google.com and put it in .env file
 
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
 ```
-5. For database setup, run database/db_creation_atliq_t_shirts.sql in your MySQL workbench
+4. For database setup, run database/db_creation_atliq_t_shirts.sql in your MySQL workbench
 
 ## Usage
 
