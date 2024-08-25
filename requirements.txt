@@ -13,8 +13,6 @@ langchain-google-genai==1.0.10
 google-generativeai==0.7.2
 streamlit==1.22.0
 google-ai-generativelanguage==0.6.6
-opentelemetry-proto==1.26.0
-tensorflow-intel==2.17.0
 keras==3.5.0
 mysql-connector-python==9.0.0
 pymysql==1.1.1
