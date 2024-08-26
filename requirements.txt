@@ -6,7 +6,7 @@ langchain-huggingface==0.0.3
 langchain-community==0.2.12
 langchain-google-genai==1.0.10
 google-generativeai==0.7.2
-streamlit==1.22.0
+streamlit
 google-ai-generativelanguage==0.6.6
 google-api-core
 mysql-connector-python
